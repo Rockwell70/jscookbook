@@ -1,5 +1,9 @@
+// import fetch from "node-fetch"
+//const fetch = require("node-fetch")
+
 (async () => {
-  const url = 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml';
+  // const url = 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml';
+  const url = 'http://www.axios.com/feeds/feed.rss';
 
   // fetch and parse the XML document
   async function fetchAndParse() {
