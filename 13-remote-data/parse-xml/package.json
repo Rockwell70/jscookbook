@@ -1,5 +1,5 @@
 {
-  "name": "js-cookbook",
+  "name": "parse-xml",
   "type": "module",
   "version": "1.0.0",
   "description": "",
@@ -34,4 +34,3 @@
     "node-fetch": "^3.2.9"
   }
 }
-
