@@ -1,6 +1,8 @@
 // load http module
-const http = require('http');
-const url = require('url');
+// const http = require('http');
+// const url = require('url');
+import http from 'http';
+import url from 'url';
 
 // create http server
 http

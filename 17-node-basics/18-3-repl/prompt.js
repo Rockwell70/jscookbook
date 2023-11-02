@@ -1,4 +1,5 @@
-const repl = require('repl');
+// const repl = require('repl');
+import repl from 'repl';
 
 const options = {
   prompt: '-> ',
